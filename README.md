@@ -1,6 +1,8 @@
 # Python-Project
 
-#Covid19
+# 1 : Covid19
+
+
 Python script to get latest updates of covid19 cases in your country using 'covid Module'  
 covid library is Python package to get information regarding novel Corona viruse provided by johns Hopkins university and worldometers.info
 
