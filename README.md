@@ -1,6 +1,6 @@
 # Python-Project
 
-# 1 : Covid19
+# Covid19
 
 
 Python script to get latest updates of covid19 cases in your country using 'covid Module'  
