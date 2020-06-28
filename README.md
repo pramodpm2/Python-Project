@@ -9,3 +9,5 @@ covid library is Python package to get information regarding novel Corona viruse
 The Module Can Be Installed Using Commond 'pip install covid'
 
  
+## iris flower classification
+Iris flower has three different types of species i.e 'Iris-setosa' 'Iris-virginica' 'Iris-Versicolor' here we are classification of iris species from some labels i.e 'PetalLengthCm' 'PetalWidthCm' 'SepalLengthCm' 'SepalWidthCm' for classification of species i'am used dission tree algorithm i got accuracy 97.77777   
